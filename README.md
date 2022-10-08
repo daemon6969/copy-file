@@ -16,8 +16,8 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ```To write a program for copying the contents from one file to another file.
-Developed by: M.Rishi
-RegisterNumber: 22000276
+Developed by: S.E.Elamaran
+RegisterNumber: 22000420
 with open("git.txt","r") as f1:
     with open("MyFile.txt","a") as f2:
         for line in f1:
