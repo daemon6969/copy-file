@@ -19,7 +19,7 @@ Anaconda - Python 3.7
 Developed by: S.E.Elamaran
 RegisterNumber: 22000420
 with open("git.txt","r") as f1:
-    with open("MyFile.txt","a") as f2:
+    with open("git.txt","a") as f2:
         for line in f1:
             f2.write(line)
             
@@ -27,7 +27,7 @@ with open("git.txt","r") as f1:
 
 ### OUTPUT:
 ![Output](20d.png)
-![Output](21d.png)
+![Output](copy1.png)
 ![Output](22d.png)
 
 ## RESULT:
